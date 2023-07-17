@@ -1,0 +1,75 @@
+[
+    {
+       "_id": "6166eb003ee14540b9fd866f",
+       "name": "Tata Altroz",
+       "image": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Tata/Altroz/10226/1685677200927/front-left-side-47.jpg?tr=w-456",
+       "rentPerHour": 500,
+       "fuelType": "petrol",
+       "bookedTimeSlots": [],
+       "capacity": 5
+    },
+    {
+        "_id": "6166eb003ee14540b9fd866e",
+       "name": "Mahindra XUV700",
+       "image": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Mahindra/XUV700/8629/1659345807519/front-left-side-47.jpg?tr=w-456",
+       "rentPerHour": 1000,
+       "fuelType": "petrol",
+       "bookedTimeSlots": [],
+       "capacity": 7,
+       "__v": 2
+    },
+    {
+        "_id": "6166eb003ee14540b9fd866d",
+        "name": "Tata Nexon",
+        "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Tata/Nexon/9977/1683047876204/front-left-side-47.jpg?tr=w-456",
+        "rentPerHour": 800,
+        "fuelType": "petrol",
+        "bookedTimeSlots": [],
+        "capacity": 5
+    },
+    {
+        "_id": "6166eb003ee14540b9fd866c",
+       "name": "Hyundai i20",
+       "image": "https://stimg.cardekho.com/images/carexteriorimages/medium/Hyundai/i20/10108/1684224627482/front-left-side-47.jpg?tr=w-456",
+       "rentPerHour": 700,
+       "fuelType": "petrol",
+       "bookedTimeSlots": [],
+       "capacity": 5
+    },
+    {
+        "_id": "6166eb003ee14540b9fd866b",
+        "name": "MG Astor",
+        "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/MG/Astor/10269/1686570065608/front-left-side-47.jpg?tr=w-456",
+        "rentPerHour": 500,
+        "fuelType": "diesel",
+        "bookedTimeSlots": [],
+        "capacity": 7
+    },
+    {
+        "_id": "6166eb003ee14540b9fd866a",
+       "name": "Mahindra Thar",
+       "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Mahindra/Thar/8076/1601635839903/front-left-side-47.jpg?tr=w-456",
+       "rentPerHour": 1200,
+       "fuelType": "petrol",
+       "bookedTimeSlots": [],
+       "capacity": 5
+    },
+    {
+        "_id": "6166eb003ee14540b9fd866g",
+        "name": "Kia Seltos",
+        "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Kia/Seltos/6226/1679395459776/front-left-side-47.jpg?imwidth=420&impolicy=resize",
+        "rentPerHour": 900,
+        "fuelType": "diesel",
+        "bookedTimeSlots": [],
+        "capacity": 5
+    },
+    {
+       "_id": "6166eb003ee14540b9fd866h",
+       "name": "Honda City",
+       "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Honda/City/9710/1677914238296/front-left-side-47.jpg?tr=w-456",
+       "rentPerHour": 1000,
+       "fuelType": "petrol",
+       "bookedTimeSlots": [],
+       "capacity": 5
+    }
+]
